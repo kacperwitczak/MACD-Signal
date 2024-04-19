@@ -1,0 +1,6 @@
+[DEFAULT]
+data_length=1000
+data_path=wig20.csv
+prices_column=Zamkniecie
+company_name=WIG20
+date_column=Data
